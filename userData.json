@@ -32,5 +32,22 @@
       "médica",
       "voluntária"
     ]
+  },
+  {
+    "nome": "Maria",
+    "idade": 25,
+    "altura": 1.6,
+    "peso": 50,
+    "cor dos olhos": "verdes",
+    "cor do cabelo": "ruivo",
+    "hobbys": [
+      "ler livros",
+      "assistir filmes",
+      "passar tempo com a família"
+    ],
+    "profissões": [
+      "médica",
+      "voluntária"
+    ]
   }
 ]
